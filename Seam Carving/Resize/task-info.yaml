@@ -1,0 +1,71 @@
+type: edu
+files:
+  - name: src/seamcarving/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/blue-pass.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/blue.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/SeamCarvingTest.java
+    visible: false
+    learner_created: false
+  - name: test/small-pass.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/small.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/trees-pass.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/trees.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/trees-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/small-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/blue-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/output.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/trees-seam-output.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/trees-reduced.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/blue-reduced.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/small-reduced.png
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/100/stages/555/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 04 Nov 2025 12:27:46 UTC"
+record: 4

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeamCarvingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-04T12:27:36" hostname="MacBook-Air.local" time="10.244">
+  <properties/>
+  <testcase name="start" classname="SeamCarvingTest" time="10.244"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+?[1;31m
+Start test 2?[0m
+?[1;31m
+Start test 3?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

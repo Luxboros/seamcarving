@@ -1,0 +1,17 @@
+type: hyperskill
+title: Seam Carving
+language: English
+summary: <p>Seam carving is an image processing technique for content aware image
+  resizing. Content aware means that it saves objects and object aspect ratio at processed
+  image.</p>
+programming_language: Kotlin
+content:
+  - Seam Carving
+  - Topics
+additional_files:
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
+mode: Study
+yaml_version: 5

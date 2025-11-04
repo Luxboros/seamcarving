@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: src/seamcarving/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/blue.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/SeamCarvingTest.java
+    visible: false
+    learner_created: false
+  - name: test/small.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/trees.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/blue-negative.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/trees-negative.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/small-negative.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/trees-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/small-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: test/blue-seam-hor.png
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/100/stages/551/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 28 Oct 2025 04:19:02 UTC"
+record: 3

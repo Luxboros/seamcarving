@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "ceil, floor, round"
+  - text: "abs, pow, log, sqrt"
+  - text: "sin, cos, tan"
+  - text: "average, median, mode"
+  - text: "integrate, differentiate"
+  - text: "min, max"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4559#comment
+status: Solved
+record: -1
+local_check: false
