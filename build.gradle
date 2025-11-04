@@ -79,3 +79,8 @@ configure(subprojects.findAll {it.name != 'util'}) {
 wrapper {
     gradleVersion = hs.gradle.version
 }
+project(':Seam_Carving-task') {
+    application {
+        mainClass = 'seamcarving.MainKt'
+    }
+}
